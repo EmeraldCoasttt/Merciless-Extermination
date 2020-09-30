@@ -156,7 +156,11 @@ New weapon code by EmeraldCoasttt, edited from Sgt Mark IV's weapons
 SMG Altfire is from BURL TUMD by Eric_
 SMG Altfire sprites are by Blealolealoleal, edited from the sprites included in BDv21
 DOOM 64 chainsaw sprites are from Sgt Mark IV's Brutal DOOM 64
-Plasma altffire sprites by Squig
+
+//SPRITES:
+Various sprites by Squig 
+Various sprites by Blealolealoleal
+
 
 //Voice Acting: 
 DOOMGUY is voiced by LandyRS
@@ -164,6 +168,7 @@ DOOMGUY is voiced by LandyRS
 //Misc:
 Helmet intro from PROJECT BRUTALITY 3.0 by PA1NKI113R
 Level title intro from DEAD MARINE by Gifty
+Hissy was made by NEKOBLUX001
 
 //Special thanks:
 Blealolealoleal for being my wonderful wife and helping me a ton 
